@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/HCY71/HCY71/blob/main/images/hello.GIF" width="80%">
+  <img src="https://github.com/HCY71/HCY71/blob/main/images/hello.gif" width="100%">
   <br><br>
   <samp>
     Hi<img src="https://github.com/HCY71/HCY71/blob/main/images/hi-emoji.gif" width="20px">, I'm Erkin, a frontend developer, UI/UX designer.
