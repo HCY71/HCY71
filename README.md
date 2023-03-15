@@ -1,8 +1,8 @@
 <p align="center">
   <img src="https://github.com/HCY71/HCY71/blob/main/images/hello.GIF" width="100%">
   <br><br>
-  <samp style="font-size:20px;">
-    Hi<img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/Hi.gif" width="20px">, I'm Erkin, a frontend developer/designer.
+  <samp>
+    Hi<img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/Hi.gif" width="20px">, I'm Erkin, a frontend developer, UI/UX designer.
   </samp>
 </p>
 
