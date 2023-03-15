@@ -4,6 +4,7 @@
   <samp>
     Hi<img src="https://github.com/HCY71/HCY71/blob/main/images/hi-emoji.gif" width="20px">, I'm Erkin, a frontend developer, a UI/UX designer, and a student from NTU.
   </samp>
+  <br>
   <samp>
     "Passionate about new things and looking forward to them."
   </samp>
@@ -15,7 +16,7 @@
   <br>
   <a href="https:tutori.vercel.app" target="_blank">Here</a>
 </p>
-
+<img src="https://github.com/HCY71/HCY71/blob/main/images/man.png" width="50%">
 ## 
 ### Langs & Tools
 <br>
