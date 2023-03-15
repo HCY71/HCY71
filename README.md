@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+<img align="right" width="375" alt="GIF" src="https://github.com/HCY71/HCY71/blob/main/images/hello.GIF" />
 <!--
 **HCY71/HCY71** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
