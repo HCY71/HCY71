@@ -58,11 +58,14 @@
   <br><br>
   <a href="https://www.linkedin.com/in/ching-yi-hsu-884664205/" target="_blank">
   <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
-  <a>
+  </a>
   <a href="mailto:b07501131@g.ntu.edu.tw" target="_blank">
   <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> 
-  <a>
+  </a>
   <a href="https://codepen.io/hci_71" target="_blank">
   <img alt="Gmail" src="https://img.shields.io/badge/codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" /> 
-  <a>
+  </a>
+  <br>
+  <br>
+  <samp>This page was created cooperating with chatGPT & Midjourney.<p>
 <p>
