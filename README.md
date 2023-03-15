@@ -20,7 +20,6 @@
 
 ## 
 ### Langs & Tools
-<br>
 <p>
    <img src="https://img.shields.io/badge/HTML%20-%23F7DF1E.svg?&style=for-the-badge&color=E34F26" />&nbsp;&nbsp;
    <img src="https://img.shields.io/badge/css%20-%23F7DF1E.svg?&style=for-the-badge&color=5BA8EE" />&nbsp;&nbsp;
@@ -47,7 +46,6 @@
 </p> 
 
 ### Stats
-<br>
 <p>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=HCY71&theme=graywhite&custom_title=streak-stats&hide_border=true&layout=compact" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HCY71&theme=graywhite" />
