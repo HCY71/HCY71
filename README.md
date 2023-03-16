@@ -14,7 +14,7 @@
 <p align="center">
   <b>Checkout the recent private project I've been working on:</b>
   <br>
-  <a href="https:tutori.vercel.app" target="_blank">Here</a>
+  <a href="https://tutori.vercel.app" target="_blank">Here</a>
 </p>
 <img src="https://github.com/HCY71/HCY71/blob/main/images/man.png" width="50%">
 
