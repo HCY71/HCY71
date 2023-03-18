@@ -43,7 +43,12 @@
    <br />
    <img src="https://img.shields.io/badge/Git%20-%23F7DF1E.svg?&style=for-the-badge&color=000" />&nbsp;&nbsp;
    <img src="https://img.shields.io/badge/GitHub%20-%23F7DF1E.svg?&style=for-the-badge&color=000" />&nbsp;&nbsp;
-</p> 
+</p>
+
+### Learning...
+<p>
+  <img src="https://img.shields.io/badge/Three.JS%20-%23F7DF1E.svg?&style=for-the-badge&color=000" />&nbsp;&nbsp;
+</p>
 
 ### Stats
 <p>
