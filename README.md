@@ -6,7 +6,7 @@
   </samp>
   <br>
   <samp>
-    "Passionate about new things and looking forward to them."
+    "Passionately embracing new things and diligently pursuing them."
   </samp>
   <br>
 </p>
