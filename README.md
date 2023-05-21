@@ -10,13 +10,13 @@
   </samp>
   <br>
 </p>
-<br>
-<!-- <p align="center"> -->
+<!-- <br> -->
+<p align="center"> 
 <!--   <b>Checkout the recent private project I've been working on:</b> -->
 <!--   <br> -->
   <a href="https://erkin-portfolio.com" target="_blank">Website</a>
-<!-- </p> -->
-<img src="https://github.com/HCY71/HCY71/blob/main/images/man.jpeg" width="50%">
+</p>
+<img src="https://github.com/HCY71/HCY71/blob/main/images/man.png" width="50%">
 
 ## 
 ### Langs & Tools
