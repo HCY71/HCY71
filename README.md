@@ -11,12 +11,12 @@
   <br>
 </p>
 <br>
-<p align="center">
+<!-- <p align="center"> -->
 <!--   <b>Checkout the recent private project I've been working on:</b> -->
 <!--   <br> -->
   <a href="https://erkin-portfolio.com" target="_blank">Website</a>
-</p>
-<img src="https://github.com/HCY71/HCY71/blob/main/images/man.png" width="50%">
+<!-- </p> -->
+<img src="https://github.com/HCY71/HCY71/blob/main/images/man.jpeg" width="50%">
 
 ## 
 ### Langs & Tools
@@ -71,7 +71,7 @@
   <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> 
   </a>
   <a href="https://codepen.io/hci_71" target="_blank">
-  <img alt="Gmail" src="https://img.shields.io/badge/codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" /> 
+  <img alt="Codepen" src="https://img.shields.io/badge/codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" /> 
   </a>
   <br>
   <br>
