@@ -13,8 +13,8 @@
 <br>
 <p align="center">
 <!--   <b>Checkout the recent private project I've been working on:</b> -->
-  <br>
-  <a href="https://erkin-portfolio.com" target="_blank">My Website</a>
+<!--   <br> -->
+  <a href="https://erkin-portfolio.com" target="_blank">Website</a>
 </p>
 <img src="https://github.com/HCY71/HCY71/blob/main/images/man.png" width="50%">
 
