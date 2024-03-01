@@ -31,9 +31,9 @@
    <img src="https://img.shields.io/badge/Figma%20-%23F7DF1E.svg?&style=for-the-badge&color=A259FF" />&nbsp;&nbsp;
    <img src="https://img.shields.io/badge/Sass%20-%23F7DF1E.svg?&style=for-the-badge&color=CD6799" />&nbsp;&nbsp;
    <img src="https://img.shields.io/badge/Styled Components%20-%23F7DF1E.svg?&style=for-the-badge&color=CD6799" />&nbsp;&nbsp;
-   <img src="https://img.shields.io/badge/chakra%20-%23F7DF1E.svg?&style=for-the-badge&color=2abfb3" />&nbsp;&nbsp;
-   <img src="https://img.shields.io/badge/gsap%20-%23F7DF1E.svg?&style=for-the-badge&color=83bc3d" />&nbsp;&nbsp;
-   <img src="https://img.shields.io/badge/framermotion%20-%23F7DF1E.svg?&style=for-the-badge&color=6b08f0" />&nbsp;&nbsp;
+   <img src="https://img.shields.io/badge/TailwindCSS%20-%23F7DF1E.svg?&style=for-the-badge&color=2abfb3" />&nbsp;&nbsp;
+   <img src="https://img.shields.io/badge/GSAP%20-%23F7DF1E.svg?&style=for-the-badge&color=83bc3d" />&nbsp;&nbsp;
+   <img src="https://img.shields.io/badge/FramerMotion%20-%23F7DF1E.svg?&style=for-the-badge&color=6b08f0" />&nbsp;&nbsp;
    <br />
    <img src="https://img.shields.io/badge/Firebase%20-%23F7DF1E.svg?&style=for-the-badge&color=0393d9" />&nbsp;&nbsp;
    <img src="https://img.shields.io/badge/supabase%20-%23F7DF1E.svg?&style=for-the-badge&color=3bc487" />&nbsp;&nbsp;
